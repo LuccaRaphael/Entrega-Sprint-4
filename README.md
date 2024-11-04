@@ -79,7 +79,7 @@ Na fase final, o sistema já treinado utiliza os embeddings gerados para fornece
 #### **Justificativa da Arquitetura**:
 A arquitetura foi desenhada para balancear **precisão** e **eficiência**. O uso do YOLOv5 garante detecção rápida e precisa, enquanto o AutoEncoder reduz a complexidade computacional na busca por similaridade, mantendo a alta precisão de recomendações.
 
-Aqui está o passo a passo atualizado para ser adicionado ao seu README:
+<img src="src\modelo.png" alt="Texto Alternativo">
 
 ---
 
@@ -116,4 +116,4 @@ Aqui está o passo a passo atualizado para ser adicionado ao seu README:
 
 
 
-<img src="src\modelo.png" alt="Texto Alternativo">
+
